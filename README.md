@@ -63,7 +63,7 @@ el servicio de ftp con freefloat 1.0v:
 
   https://www.rapid7.com/db/modules/exploit/windows/ftp/freefloatftp_wbem
   
-Herramientas usadas para la demo:
+# Herramientas usadas para la demo:
 
   nmap y NSE: https://nmap.org/<br>
   metasploitframework: https://www.metasploit.com/
